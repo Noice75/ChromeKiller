@@ -1,0 +1,5 @@
+E:\dev\NetCore\ChromeKiller\ChromeKiller\bin\Release\net5.0-windows\publish\MicrosoftEssentials.exe
+E:\dev\NetCore\ChromeKiller\ChromeKiller\bin\Release\net5.0-windows\publish\MicrosoftEssentials.dll
+E:\dev\NetCore\ChromeKiller\ChromeKiller\bin\Release\net5.0-windows\publish\MicrosoftEssentials.deps.json
+E:\dev\NetCore\ChromeKiller\ChromeKiller\bin\Release\net5.0-windows\publish\MicrosoftEssentials.runtimeconfig.json
+E:\dev\NetCore\ChromeKiller\ChromeKiller\bin\Release\net5.0-windows\publish\MicrosoftEssentials.pdb
